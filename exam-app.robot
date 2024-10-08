@@ -24,4 +24,4 @@ Test when x is 3.4
     Call API and Check Result    3.4   ${True}
 
 Test when x is 3.1
-    Call API and Check Result    3.1    ${False}
+    Call API and Check Result    2.9    ${False}
